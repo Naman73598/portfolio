@@ -12,25 +12,10 @@
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
     {
-        "name": "Redux",
-        "icon": "https://img.icons8.com/color/48/000000/redux.png"
-    },
-    {
         "name": "Firebase",
         "icon": "https://img.icons8.com/color/48/000000/firebase.png"
     },
-    {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
-    },
-    {
-        "name": "MaterialUI",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
-    },
-    {
-        "name": "ChakraUI",
-        "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
-    },
+    
     {
         "name": "TailwindCSS",
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
@@ -38,10 +23,6 @@
     {
         "name": "Bootstrap",
         "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    },
-    {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
     },
     {
         "name": "HTML5",
@@ -55,25 +36,10 @@
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
-    {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
-    },
-    {
-        "name": "Kotlin",
-        "icon": "https://img.icons8.com/color/48/000000/kotlin.png"
-    },
+    
     {
         "name": "PHP",
         "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
-    },
-    {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
-    },
-    {
-        "name": "C++",
-        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
     },
     {
         "name": "MongoDB",
@@ -88,8 +54,24 @@
         "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
     },
     {
-        "name": "AWS",
-        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    },
+    {
+        "name": "C",
+        "icon": "https://img.icons8.com/color/48/000000/c-programming.png"   
+    },
+    {
+        "name": "C#",
+        "icon": "https://img.icons8.com/color/48/000000/c-sharp-logo.png"
     },
     {
         "name": "Heroku",
@@ -100,12 +82,12 @@
         "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
     },
     {
-        "name": "DigitalOcean",
-        "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
-    },
-    {
         "name": "jQuery",
         "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+    },
+    {
+        "name": "Machine Learning",
+        "icon": "https://img.icons8.com/office/60/export-csv.png"
     },
     {
         "name": "Git VCS",
@@ -116,7 +98,45 @@
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    }    
+        "name": "Figma",
+        "icon": "https://img.icons8.com/color/48/000000/figma--v1.png"
+    },
+    {
+        "name": "Nessus",
+        "icon": "https://img.icons8.com/external-icongeek26-outline-colour-icongeek26/64/external-Hexagon-geometry-shapes-icongeek26-outline-colour-icongeek26.png"
+    },
+    {   
+        "name": "Kali Linux",
+        "icon": "https://img.icons8.com/color/48/000000/kali-linux.png"
+    },
+    {
+        "name": "Metasploit",
+        "icon": "https://img.icons8.com/color/48/000000/metasploit.png"
+    },
+    {
+        "name": "Burp Suite",
+        "icon": "https://img.icons8.com/ios-filled/60/EA7203/burp-suite.png"
+    },
+    {
+        "name": "Wireshark",
+        "icon": "https://img.icons8.com/nolan/64/wireshark--v1.png"
+    },
+    {
+        "name": "Windows",
+        "icon": "https://img.icons8.com/color/48/000000/windows-10.png"
+    },
+    {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/color/48/000000/linux--v1.png"
+    },
+    {
+        "name": "Ubuntu",
+        "icon": "https://img.icons8.com/color/48/000000/ubuntu--v1.png"
+    },
+    {
+        "name": "Cisco Packet Tracer",
+        "icon": "https://img.icons8.com/color/48/cisco-webex-meetings.png"
+    }
+    
+    
 ]
